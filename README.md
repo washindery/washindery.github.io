@@ -1,2 +1,2 @@
-# washindery.github.io-
+# washindery.github.io
 ## This is a test page
